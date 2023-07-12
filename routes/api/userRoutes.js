@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const { getAllUsers, getUserById, createUser, updateUser, deleteUser } = require('../controllers/userController');
-const { addFriend, removeFriend } = require('../controllers/friendsController');
+const { getAllUsers, getUserById, createUser, updateUser, deleteUser } = require('../../controllers/userController');
+const { addFriend, removeFriend } = require('../../controllers/friendsController');
 
 router.route('/')
   .get(getAllUsers)
