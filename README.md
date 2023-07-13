@@ -10,8 +10,6 @@ This application is the back-end of a Social Network project that used node.js, 
 
 [Usage](#Usage)
 
-[Contributing](#Contributing)
-
 [Tests](#Tests)
 
 [License](#License)
