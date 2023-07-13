@@ -16,7 +16,7 @@ This application is the back-end of a Social Network project that used node.js, 
 
 [License](#License)
 
-[Questions/Comments/Contributing](#Questions/Comments/Contributing)
+[Questions/Comments&Contributing](#Questions/Comments&Contributing)
 
 ## Installation
 Prerequisites are that you must already have node.js and mongoDB installed on your system.  
@@ -37,6 +37,6 @@ There are no pre-prepared tests that we've created to test the application.
 
 The application uses an MIT liscense. 
 
-## Questions/Comments/Contributing
+## Questions/Comments&Contributing
 If you have any questions or comments regarding this application or are interested in contributing feel free to email Brian Wiley at bswiley@gmail.com.  
 
