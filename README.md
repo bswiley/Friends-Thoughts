@@ -28,7 +28,7 @@ To install the application locally please use the following steps:
 After the application has been installed and started, navigate to "localhost:3001" in insomnia.  Check out the [following video](https://drive.google.com/file/d/1YX4EPXfxS4dJDNuVLv0w57ZmlxyxwjlU/view?usp=sharing) to see how the application can be used after it's been installed.  
 
 ## Tests
-There are no pre-prepared tests that we've created to test the application.  
+I haven't tests for the application.  
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
