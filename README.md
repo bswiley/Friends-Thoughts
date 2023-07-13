@@ -2,7 +2,7 @@
 
 ## Description
 
-This application is the back-end of a Social Network project that used node.js, express.js, mongoDB, and Mongoose to build it up.  The project itself is in the same directory as this README.md file for download and use.  The purpose of the application is to create the back-end of a Social Network-style API that can keep track of users and their thoughts as well as linking one or more users as "friends."  I have not built a front-end for the application, however, so the best way to use it is through the insomnia REST client tool. 
+This application is the back-end of a Social Network project that used node.js, express.js, mongoDB, and Mongoose to build up.  The project itself is in the same directory as this README.md file for download and use.  The purpose of the application is to create the back-end of a Social Network-style API that can keep track of users and their thoughts as well as linking one or more users as "friends."  I have not built a front-end for the application, however, so the best way to use it is through the insomnia REST client tool. 
 
  ## Table of Contents
 
