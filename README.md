@@ -21,7 +21,7 @@ This application is the back-end of a Social Network project that used node.js, 
 ## Installation
 Prerequisites are that you must already have node.js and mongoDB installed on your system.  
 
-To install locally please follow the following steps:
+To install the application locally please use the following steps:
 1. Clone the directory 
 2. After entering your local copy of the "Friends-Thoughts" directory, run "npm install" in the terminal to install all the required dependencies  
 6. Run "npm start" to instantiate the application.  
