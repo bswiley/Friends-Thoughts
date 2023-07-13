@@ -16,7 +16,7 @@ This application is the back-end of a Social Network project that used node.js, 
 
 [License](#License)
 
-[Questions](#Questions)
+[Questions/Comments/Contributing](#Questions/Comments/Contributing)
 
 ## Installation
 Prerequisites are that you must already have node.js and mongoDB installed on your system.  
